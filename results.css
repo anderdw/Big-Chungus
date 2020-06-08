@@ -113,5 +113,9 @@
 }
 
 .resultsText {
+    text-align: left;
+    background-color:  silver;
     color: black;
+    font-family: 'Work Sans', sans-serif;
+    font-size: large;
 }
